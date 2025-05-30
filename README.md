@@ -20,6 +20,6 @@ Aplicación para Wear OS que reproduce la oración del Ángelus en tres momentos
 ## Instalación
 
 1. Clona el repositorio:
-   git clone https://github.com/tu-usuario/angelus-wearos.git
+   git clone https://github.com/FatimaPB/Angelus.git
 2. Ábrelo en Android Studio.
 3. Ejecuta en un emulador o dispositivo Wear OS.
