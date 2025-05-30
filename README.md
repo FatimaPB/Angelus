@@ -3,8 +3,8 @@
 Aplicación para Wear OS que reproduce la oración del Ángelus en tres momentos del día:
 
 - 6:00 AM
-- 12:10 PM
-- 6:23 PM
+- 12:00 PM
+- 6:00 PM
 
 ## Características
 
